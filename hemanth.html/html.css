@@ -36,6 +36,10 @@ a{
     font-size: 30px;
     color:white;
 }
+
+a:active {
+    color: black;
+}
 body{
     background-color: white;
     font-size: medium;
